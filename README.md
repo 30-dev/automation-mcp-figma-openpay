@@ -1,9 +1,3 @@
----
-
-getfigma: 'YOUR\_FIGMA\_FILE\_KEY'
-applyTo: '\*\*'
----------------
-
 # Mailing Instructions for MCP
 
 ## Preliminary Interaction Phases
